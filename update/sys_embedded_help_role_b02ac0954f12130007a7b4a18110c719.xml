@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_121206_markit4.user" name="x_121206_markit4.user">342ac0954f12130007a7b4a18110c717</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-24 16:42:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b02ac0954f12130007a7b4a18110c719</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>342ac0954f12130007a7b4a18110c717</sys_name>
+        <sys_package display_value="MARK IT PLACE 2" source="x_121206_mark_it_p">6fc600f74f31530007a7b4a18110c778</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MARK IT PLACE 2">6fc600f74f31530007a7b4a18110c778</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b02ac0954f12130007a7b4a18110c719</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-24 16:42:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

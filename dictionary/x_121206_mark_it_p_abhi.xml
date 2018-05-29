@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sc_category" label="ABHI 2" max_length="40" name="x_121206_mark_it_p_abhi" type="collection"/>
+</database>

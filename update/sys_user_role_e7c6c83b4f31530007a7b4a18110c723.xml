@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_121206_mark_it_p.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 14:21:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e7c6c83b4f31530007a7b4a18110c723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_121206_mark_it_p.user</sys_name>
+        <sys_package display_value="MARK IT PLACE 2" source="x_121206_mark_it_p">6fc600f74f31530007a7b4a18110c778</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MARK IT PLACE 2">6fc600f74f31530007a7b4a18110c778</sys_scope>
+        <sys_update_name>sys_user_role_e7c6c83b4f31530007a7b4a18110c723</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 14:21:50</sys_updated_on>
+    </sys_user_role>
+</record_update>
